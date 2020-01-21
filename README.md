@@ -2,4 +2,4 @@
 
 Starter files needed for Hero Game RPG exercises
 
-Jennifer and Karley
+Team: Jennifer and Karley
